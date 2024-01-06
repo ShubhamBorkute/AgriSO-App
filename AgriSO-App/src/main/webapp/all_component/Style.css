@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+
+.navbar .nav-item .nav-link:hover{
+    color:black;
+	background-color:#4caf50 ;
+	border-radius:15px;
+}
+
+.navbar-container{
+	font-weight: bold;
+	display:flex;
+	justify-content:space-between;
+}
+
+.font{
+	
+	
+	font-size:75px;
+}

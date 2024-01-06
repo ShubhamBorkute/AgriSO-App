@@ -1,0 +1,22 @@
+.admin-nav{
+	background-color:green;
+	
+	
+}
+.navbar .nav-item .nav-link:hover{
+    color:black;
+	background-color:#64b5f6 ;
+	border-radius:10px;
+}
+
+.navbar-container{
+	font-weight: bold;
+}
+
+.row .item-box{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:column;
+}
+
+
