@@ -7,6 +7,27 @@ The AgriSO E-farming project aims to revolutionize traditional farming practices
 
 The primary objective of this project is to create a user-friendly web application that connects farmers with consumers. The platform's purpose is to streamline and enhance the efficiency of agricultural transactions, fostering a more transparent and equitable food system. By leveraging technology, the AgriSO E-farming web application seeks to benefit both farmers and consumers.
 
+# Key Features
+
+Efficient Transactions: The web application provides a platform for farmers and consumers to engage in electronic transactions, simplifying the buying and selling of agricultural products.
+Transparency: The platform ensures transparency in transactions, allowing both parties to have clear insights into the products, pricing, and terms involved.
+Sustainability: The integration of IT into farming practices promotes sustainable agricultural methods, contributing to a more environmentally friendly and resilient food production system.
+
+# How to Use
+
+1) Registration: Farmers and consumers need to register on the platform to access its features.
+2) Listing Products: Farmers can list their agricultural products, providing details such as quantity, pricing, and quality.
+3) Browsing and Purchasing: Consumers can browse through the listed products, make informed decisions, and purchase directly from farmers.
+
+
+# Contribution
+
+Contributions to the AgriSO E-farming project are welcome! If you have ideas for improvements, bug fixes, or new features, please feel free to contribute by submitting pull requests.
+
+
+#  *Project Images*
+
+
 ![homepage1](https://github.com/ShubhamBorkute/AgriSO-App/assets/99527749/c813891d-aedb-4668-9fcb-5f1fcf2bc3bf)
 
 ![homepage2](https://github.com/ShubhamBorkute/AgriSO-App/assets/99527749/33c8428d-aab2-429c-8e33-057db84ac17c)
